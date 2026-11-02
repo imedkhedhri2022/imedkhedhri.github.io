@@ -4,7 +4,7 @@ title: Ressources
 permalink: /ressources/
 ---
 
-# Ressources
+
 
 Voici quelques ressources utiles :
 

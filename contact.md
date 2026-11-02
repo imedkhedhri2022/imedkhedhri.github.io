@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+
 
 Vous pouvez me contacter pour toute question
 ou collaboration.

@@ -4,7 +4,7 @@ title: Mes projets
 permalink: /projets/
 ---
 
-# Mes projets
+
 
 ## Projet 1 : Site personnel
 
