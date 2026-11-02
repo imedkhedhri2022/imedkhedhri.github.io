@@ -20,8 +20,10 @@ description: >-
   mes projets et mes ressources.
 
 
+
+
 url: "https://imedkhedhri2022.github.io"
-baseurl: ""
+baseurl: "/imedkhedhri.github.io"
 
 header_pages:
   - about.md
