@@ -13,3 +13,4 @@ Création d'un site statique avec Jekyll.
 ## Projet 2 : Application Web
 
 Développement d'une application Web avec HTML, CSS et JavaScript.
+[Lien de test](https://example.com/page-inexistante-12345)
