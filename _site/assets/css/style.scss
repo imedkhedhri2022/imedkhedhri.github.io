@@ -1,0 +1,73 @@
+
+---
+---
+
+@import "minima";
+
+/* ===== Personnalisation générale ===== */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #263238;
+}
+
+/* ===== En-tête ===== */
+
+.site-header {
+  background-color: #17365D;
+  border-top: 5px solid #E5A000;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.site-nav .page-link:hover {
+  color: #E5A000;
+}
+
+/* ===== Titres ===== */
+
+h1, h2, h3 {
+  color: #17365D;
+  font-weight: 700;
+}
+
+/* ===== Liens ===== */
+
+a {
+  color: #087E8B;
+}
+
+a:hover {
+  color: #E05D26;
+}
+
+/* ===== Contenu ===== */
+
+.page-content {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+/* ===== Pied de page ===== */
+
+.site-footer {
+  background-color: #17365D;
+  color: #ffffff;
+  border-top: 4px solid #E5A000;
+}
+
+.site-footer a {
+  color: #ffffff;
+}
